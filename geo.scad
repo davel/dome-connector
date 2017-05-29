@@ -1,5 +1,5 @@
-$length_a = 10;
-$length_b = 11;
+$length_a = 1.09*10;
+$length_b = 1.24*10;
 
 
 $five_point_angle = acos(($length_b/(2*cos(54)))/$length_a);
